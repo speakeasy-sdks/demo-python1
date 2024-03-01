@@ -4,16 +4,16 @@ management:
   docChecksum: 8603d6305c152345bd5e6c66833951ff
   docVersion: 0.1.0
   speakeasyVersion: internal
-  generationVersion: 2.272.7
-  releaseVersion: 0.0.1
-  configChecksum: f49f12f6d8a554e650fb8aa2383a5fb5
+  generationVersion: 2.275.4
+  releaseVersion: 0.1.0
+  configChecksum: a22dbe265cc783540b9c4484bf351e7d
   repoURL: https://github.com/speakeasy-sdks/demo-python1.git
   repoSubDirectory: .
   installationURL: https://github.com/speakeasy-sdks/demo-python1.git
 features:
   python:
     constsAndDefaults: 0.1.2
-    core: 4.4.7
+    core: 4.5.0
     globalSecurity: 2.83.4
     globalServerURLs: 2.82.1
     unions: 2.82.5
@@ -104,3 +104,6 @@ generatedFiles:
   - docs/sdks/manage/README.md
   - USAGE.md
   - .gitattributes
+  - src/dataservice/_hooks/sdkhooks.py
+  - src/dataservice/_hooks/types.py
+  - src/dataservice/_hooks/__init__.py
