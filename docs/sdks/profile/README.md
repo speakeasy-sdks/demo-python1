@@ -106,6 +106,7 @@ res = s.profile.log(req)
 if res.any is not None:
     # handle response
     pass
+
 ```
 
 ### Parameters
@@ -195,6 +196,7 @@ res = s.profile.log_embeddings(req)
 if res.any is not None:
     # handle response
     pass
+
 ```
 
 ### Parameters
@@ -233,6 +235,7 @@ res = s.profile.log_pubsub()
 if res.any is not None:
     # handle response
     pass
+
 ```
 
 
@@ -264,6 +267,7 @@ res = s.profile.log_pubsub_embedding()
 if res.any is not None:
     # handle response
     pass
+
 ```
 
 

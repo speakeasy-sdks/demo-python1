@@ -28,5 +28,6 @@ res = s.profile.log(req)
 if res.any is not None:
     # handle response
     pass
+
 ```
 <!-- End SDK Example Usage [usage] -->

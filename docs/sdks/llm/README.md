@@ -31,6 +31,7 @@ res = s.llm.log_llm(req)
 if res.any is not None:
     # handle response
     pass
+
 ```
 
 ### Parameters
@@ -78,6 +79,7 @@ res = s.llm.evaluate(req)
 if res.evaluation_result is not None:
     # handle response
     pass
+
 ```
 
 ### Parameters
@@ -117,6 +119,7 @@ res = s.llm.list_metrics()
 if res.available_metrics is not None:
     # handle response
     pass
+
 ```
 
 
@@ -159,6 +162,7 @@ res = s.llm.validate_llm(req)
 if res.validation_result is not None:
     # handle response
     pass
+
 ```
 
 ### Parameters

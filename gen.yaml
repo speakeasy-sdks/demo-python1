@@ -13,7 +13,7 @@ generation:
     oAuth2ClientCredentialsEnabled: false
   baseServerURL: ""
 python:
-  version: 0.1.1
+  version: 0.2.0
   additionalDependencies:
     dependencies: {}
     extraDependencies:
@@ -34,3 +34,4 @@ python:
   maxMethodParams: 0
   outputModelSuffix: output
   packageName: Dataservice
+  responseFormat: envelope

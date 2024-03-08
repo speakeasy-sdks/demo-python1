@@ -27,6 +27,7 @@ res = s.manage.publish()
 if res.any is not None:
     # handle response
     pass
+
 ```
 
 
@@ -58,6 +59,7 @@ res = s.manage.health()
 if res.any is not None:
     # handle response
     pass
+
 ```
 
 
@@ -89,6 +91,7 @@ res = s.manage.status()
 if res.process_logger_status_response is not None:
     # handle response
     pass
+
 ```
 
 
@@ -120,6 +123,7 @@ res = s.manage.debug_info()
 if res.any is not None:
     # handle response
     pass
+
 ```
 
 
