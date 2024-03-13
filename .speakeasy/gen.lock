@@ -3,10 +3,10 @@ id: 1406646a-83e3-4f83-b9e9-908832711ae3
 management:
   docChecksum: 8603d6305c152345bd5e6c66833951ff
   docVersion: 0.1.0
-  speakeasyVersion: 1.204.1
-  generationVersion: 2.279.1
-  releaseVersion: 0.2.0
-  configChecksum: 00ad378d13fcd392134ce79d67b21fcf
+  speakeasyVersion: 1.207.1
+  generationVersion: 2.280.6
+  releaseVersion: 0.2.1
+  configChecksum: a40f0db1d9284092df7cfb3da3c64188
   repoURL: https://github.com/speakeasy-sdks/demo-python1.git
   repoSubDirectory: .
   installationURL: https://github.com/speakeasy-sdks/demo-python1.git
@@ -15,7 +15,7 @@ features:
     constsAndDefaults: 0.1.3
     core: 4.5.1
     globalSecurity: 2.83.4
-    globalServerURLs: 2.82.1
+    globalServerURLs: 2.82.2
     responseFormat: 0.1.0
     unions: 2.82.6
 generatedFiles:
